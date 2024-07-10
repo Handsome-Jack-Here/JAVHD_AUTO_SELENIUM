@@ -4,8 +4,8 @@ POSITIVE = DotMap(
     {
         'users': {
             'paid_user': {
-                'username': 'anqmzmpvue',
-                'password': 'ack6hgsdb7',
+                'username': '',
+                'password': '',
             },
         },
     }
